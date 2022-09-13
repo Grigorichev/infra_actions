@@ -56,4 +56,5 @@ jobs:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
           push: true
-          tags: grigorichev/infras_action:latest
+          tags: grigorichev/infra_action:latest
+
